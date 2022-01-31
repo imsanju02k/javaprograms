@@ -11,7 +11,7 @@ public class alphapattern {
         while(i<=n){
             int j=1;
             while (j<=i){
-                System.out.println((char) k);
+                System.out.print((char) k);
                 j=j+1;
             }
             k=k+1;
